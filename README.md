@@ -1,6 +1,6 @@
-# GIS_5578_test
+# GIS 5578 Test Repository
 
-## This is a test repository for GIS 5578
+### This is a test repository for GIS 5578
 
 Please do the following
 1. Clone this repository to your local hard drive.
